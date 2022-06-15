@@ -1,0 +1,12 @@
+install.packages("memoise")
+install.packages("multilinguer")
+install.packages("rvest")
+install.packages("stringr")
+install.packages("writexl")
+install.packages("rJava")
+install.packages("remotes")
+remotes::install_github('haven-jeon/KoNLP', upgrade = "never", INSTALL_opts=c("--no-multiarch"))
+install.packages("KoNLP")
+
+install_jdk()
+install.packages(c("hash", "tau", "Sejong", "RSQLite", "devtools", "bit", "rex", "lazyeval", "htmlwidgets", "crosstalk", "promises", "later", "sessioninfo", "xopen", "bit64", "blob", "DBI", "memoise", "plogr", "covr", "DT", "rcmdcheck", "rversions"), type = "binary")
