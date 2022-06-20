@@ -12,9 +12,9 @@ R언어로 네이버 뉴스 댓글 크롤링하는 코드입니다.
  * R studio는 R언어 IDE 프로그램입니다. 무료버전으로 무난하게 사용이 가능합니다.
  * 다운로드 링크 : https://download1.rstudio.org/desktop/windows/RStudio-2022.02.3-492.exe
 
-3. Java 설치(jre로 테스트 완료)
+3. Java 설치(JDK 설치)
  * koNLP에서 구동하기 위해서 설치가 필요.
- * 다운로드 링크 : https://javadl.oracle.com/webapps/download/AutoDL?BundleId=245776_df5ad55fdd604472a86a45a217032c7d
+ * 다운로드 링크 : https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe
 
 4. Rtools 설치(권장)
  * koNLP 구동하기 위한 설치(권장)
